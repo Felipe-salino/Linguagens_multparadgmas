@@ -2,6 +2,7 @@
 Trabalho da materia de linguagem de programação onde estamos trabalhando linguiagens de mult paradgmas
 Nesse trabalho, estudamos tres tipos de paradigmas: python procedural, python funcinal e ruby orentado a objetos.
 todos os 3 codigos podem ser usados e textados no replit (https://replit.com/~)
+(acesse o arquivo replitCODE para ver os três codigos)
 
 O python procedural: calcula a média de três números fornecidos pelo usuário, pode ser usado em várias situações simples onde há uma necessidade de calcular uma média de um conjunto de números. Por exemplo:
 
